@@ -103,20 +103,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 🖥️ App Preview
-
-
-
-Example:
-
-* Song selection dropdown
-* Top 10 recommendations
-* Artist names displayed
-
----
-
 ## ⭐ Acknowledgements
 
 * Spotify Dataset — Kaggle
